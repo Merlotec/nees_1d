@@ -7,6 +7,6 @@ This only allows for one dimension of heterogeneity for each item. Therefore uti
 
 This solver uses an envelope based system to determine ordering, where an envelope is a group of allocations that have certain properties.
 
-A higher dimensional version of the solution algorithm has beem developed which uses a graph based approach, which is fundamentally capturing the same thing, but expressing it in a more general way that can handle an arbitrary number of item quality dimensions.
+A higher dimensional version of the solution algorithm has been developed which uses a graph based approach, which is fundamentally capturing the same thing, but expressing it in a more general way that can handle an arbitrary number of item quality dimensions.
 
 Future work is planned on allowing endogenous income (based on agents being able to own items).
